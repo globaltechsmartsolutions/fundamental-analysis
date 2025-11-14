@@ -1,0 +1,10 @@
+{
+  "symbol": "DELL",
+  "growth_adjustment_factor": 0.4,
+  "wacc_adjustment_factor": 1.4,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 17.353106916296955,
+  "target_value": 216.87,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

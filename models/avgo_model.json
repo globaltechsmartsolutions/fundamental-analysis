@@ -1,0 +1,10 @@
+{
+  "symbol": "AVGO",
+  "growth_adjustment_factor": 1.6,
+  "wacc_adjustment_factor": 0.6,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 17.524531393785715,
+  "target_value": 249.89,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

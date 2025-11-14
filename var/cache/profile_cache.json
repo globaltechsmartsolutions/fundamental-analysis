@@ -1,0 +1,1256 @@
+{
+  "AAPL": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Technology",
+      "ipo": "1980-12-12",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png",
+      "marketCapitalization": 4033205.4435403887,
+      "name": "Apple Inc",
+      "phone": "14089961010",
+      "shareOutstanding": 14840.39,
+      "ticker": "AAPL",
+      "weburl": "https://www.apple.com/"
+    },
+    "cached_date": "2025-11-14T01:09:18.042237",
+    "cache_type": "profile"
+  },
+  "DELL": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Technology",
+      "ipo": "2016-08-01",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DELL.png",
+      "marketCapitalization": 90057.66569122918,
+      "name": "Dell Technologies Inc",
+      "phone": "18002893355",
+      "shareOutstanding": 670.2,
+      "ticker": "DELL",
+      "weburl": "https://www.dell.com/en-in"
+    },
+    "cached_date": "2025-11-14T01:09:22.727800",
+    "cache_type": "profile"
+  },
+  "WDC": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Technology",
+      "ipo": "1980-03-17",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/WDC.png",
+      "marketCapitalization": 51103.96022827215,
+      "name": "Western Digital Corp",
+      "phone": "19496727000",
+      "shareOutstanding": 342.8,
+      "ticker": "WDC",
+      "weburl": "https://www.westerndigital.com/"
+    },
+    "cached_date": "2025-11-14T01:09:27.337027",
+    "cache_type": "profile"
+  },
+  "SNDK": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Technology",
+      "ipo": "2025-02-13",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950906460416.png",
+      "marketCapitalization": 35695.95806206404,
+      "name": "Sandisk Corp",
+      "phone": "14088011000",
+      "shareOutstanding": 146.53,
+      "ticker": "SNDK",
+      "weburl": "https://www.sandisk.com/"
+    },
+    "cached_date": "2025-11-14T01:09:31.277270",
+    "cache_type": "profile"
+  },
+  "HPE": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Technology",
+      "ipo": "2015-10-19",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HPE.png",
+      "marketCapitalization": 30254.986790992334,
+      "name": "Hewlett Packard Enterprise Co",
+      "phone": "16782599860",
+      "shareOutstanding": 1319.45,
+      "ticker": "HPE",
+      "weburl": "https://www.hpe.com/"
+    },
+    "cached_date": "2025-11-14T01:09:35.612987",
+    "cache_type": "profile"
+  },
+  "MSFT": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Technology",
+      "ipo": "1986-03-13",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSFT.png",
+      "marketCapitalization": 3740641.3496859143,
+      "name": "Microsoft Corp",
+      "phone": "14258828080",
+      "shareOutstanding": 7433.17,
+      "ticker": "MSFT",
+      "weburl": "https://www.microsoft.com/en-in/"
+    },
+    "cached_date": "2025-11-14T01:09:40.507410",
+    "cache_type": "profile"
+  },
+  "NOW": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Technology",
+      "ipo": "2012-06-29",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NOW.png",
+      "marketCapitalization": 176735.51550589871,
+      "name": "ServiceNow Inc",
+      "phone": "14085018550",
+      "shareOutstanding": 208,
+      "ticker": "NOW",
+      "weburl": "https://www.servicenow.com/"
+    },
+    "cached_date": "2025-11-14T01:10:11.023028",
+    "cache_type": "profile"
+  },
+  "PANW": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Technology",
+      "ipo": "2012-07-20",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PANW.png",
+      "marketCapitalization": 140059.12604331112,
+      "name": "Palo Alto Networks Inc",
+      "phone": "14087534000",
+      "shareOutstanding": 676.87,
+      "ticker": "PANW",
+      "weburl": "https://www.paloaltonetworks.com/"
+    },
+    "cached_date": "2025-11-14T01:10:15.419483",
+    "cache_type": "profile"
+  },
+  "CRWD": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Technology",
+      "ipo": "2019-06-12",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRWD.png",
+      "marketCapitalization": 132951.0100565916,
+      "name": "CrowdStrike Holdings Inc",
+      "phone": "18885128906",
+      "shareOutstanding": 250.96,
+      "ticker": "CRWD",
+      "weburl": "https://ir.crowdstrike.com/"
+    },
+    "cached_date": "2025-11-14T01:10:20.182827",
+    "cache_type": "profile"
+  },
+  "GOOGL": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Media",
+      "ipo": "2004-08-19",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png",
+      "marketCapitalization": 3365286.6087078606,
+      "name": "Alphabet Inc",
+      "phone": "16502530000",
+      "shareOutstanding": 12094,
+      "ticker": "GOOGL",
+      "weburl": "https://abc.xyz/"
+    },
+    "cached_date": "2025-11-14T01:10:25.464077",
+    "cache_type": "profile"
+  },
+  "META": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Media",
+      "ipo": "2012-05-18",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FB.png",
+      "marketCapitalization": 1537465.1145415104,
+      "name": "Meta Platforms Inc",
+      "phone": "16505434800",
+      "shareOutstanding": 2512.14,
+      "ticker": "META",
+      "weburl": "https://www.meta.com/"
+    },
+    "cached_date": "2025-11-14T01:10:31.895352",
+    "cache_type": "profile"
+  },
+  "RDDT": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Media",
+      "ipo": "2024-03-21",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950440227326.png",
+      "marketCapitalization": 35894.28798533469,
+      "name": "Reddit Inc",
+      "phone": "14154948016",
+      "shareOutstanding": 187.16,
+      "ticker": "RDDT",
+      "weburl": "https://www.redditinc.com/"
+    },
+    "cached_date": "2025-11-14T01:10:36.067568",
+    "cache_type": "profile"
+  },
+  "PINS": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Media",
+      "ipo": "2019-04-18",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PINS.png",
+      "marketCapitalization": 18084.682895880673,
+      "name": "Pinterest Inc",
+      "phone": "14157627100",
+      "shareOutstanding": 679.93,
+      "ticker": "PINS",
+      "weburl": "https://investor.pinterestinc.com/"
+    },
+    "cached_date": "2025-11-14T01:10:40.710191",
+    "cache_type": "profile"
+  },
+  "SNAP": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Media",
+      "ipo": "2017-03-02",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SNAP.png",
+      "marketCapitalization": 14752.097584646866,
+      "name": "Snap Inc",
+      "phone": "13103993339",
+      "shareOutstanding": 1689.83,
+      "ticker": "SNAP",
+      "weburl": "https://snap.com/"
+    },
+    "cached_date": "2025-11-14T01:10:46.436102",
+    "cache_type": "profile"
+  },
+  "UNH": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Health Care",
+      "ipo": "1984-10-17",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/UNH.png",
+      "marketCapitalization": 301209.45676692587,
+      "name": "UnitedHealth Group Inc",
+      "phone": "18003285979",
+      "shareOutstanding": 905.67,
+      "ticker": "UNH",
+      "weburl": "https://www.unitedhealthgroup.com/"
+    },
+    "cached_date": "2025-11-14T01:11:11.743053",
+    "cache_type": "profile"
+  },
+  "ELV": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Health Care",
+      "ipo": "2001-10-30",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ANTM.png",
+      "marketCapitalization": 72956.54434934884,
+      "name": "Elevance Health Inc",
+      "phone": "18003311476",
+      "shareOutstanding": 225.18,
+      "ticker": "ELV",
+      "weburl": "https://www.elevancehealth.com/"
+    },
+    "cached_date": "2025-11-14T01:11:18.411147",
+    "cache_type": "profile"
+  },
+  "HUM": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Health Care",
+      "ipo": "1971-05-18",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HUM.png",
+      "marketCapitalization": 28473.446391366437,
+      "name": "Humana Inc",
+      "phone": "15025801000",
+      "shareOutstanding": 120.27,
+      "ticker": "HUM",
+      "weburl": "https://www.humana.com/"
+    },
+    "cached_date": "2025-11-14T01:11:23.886755",
+    "cache_type": "profile"
+  },
+  "CNC": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Health Care",
+      "ipo": "2001-12-13",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CNC.png",
+      "marketCapitalization": 17738.885187270993,
+      "name": "Centene Corp",
+      "phone": "13147254477",
+      "shareOutstanding": 491.13,
+      "ticker": "CNC",
+      "weburl": "https://www.centene.com/"
+    },
+    "cached_date": "2025-11-14T01:11:29.829534",
+    "cache_type": "profile"
+  },
+  "HQY": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Health Care",
+      "ipo": "2014-07-31",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HQY.png",
+      "marketCapitalization": 8572.5552250796,
+      "name": "Healthequity Inc",
+      "phone": "18017271000",
+      "shareOutstanding": 86.16,
+      "ticker": "HQY",
+      "weburl": "https://healthequity.com/"
+    },
+    "cached_date": "2025-11-14T01:11:35.555220",
+    "cache_type": "profile"
+  },
+  "NVDA": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Semiconductors",
+      "ipo": "1999-01-22",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NVDA.png",
+      "marketCapitalization": 4540698.071502392,
+      "name": "NVIDIA Corp",
+      "phone": "14084862000",
+      "shareOutstanding": 24300,
+      "ticker": "NVDA",
+      "weburl": "https://www.nvidia.com/"
+    },
+    "cached_date": "2025-11-14T01:11:41.542734",
+    "cache_type": "profile"
+  },
+  "AVGO": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Semiconductors",
+      "ipo": "2009-08-06",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
+      "marketCapitalization": 1605509.7378998187,
+      "name": "Broadcom Inc",
+      "phone": "16504276000",
+      "shareOutstanding": 4722.37,
+      "ticker": "AVGO",
+      "weburl": "https://www.broadcom.com"
+    },
+    "cached_date": "2025-11-14T01:11:48.700093",
+    "cache_type": "profile"
+  },
+  "AMD": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Semiconductors",
+      "ipo": "1979-10-15",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMD.png",
+      "marketCapitalization": 403689.19415044313,
+      "name": "Advanced Micro Devices Inc",
+      "phone": "14087494000",
+      "shareOutstanding": 1622.84,
+      "ticker": "AMD",
+      "weburl": "https://www.amd.com/"
+    },
+    "cached_date": "2025-11-14T01:12:07.222974",
+    "cache_type": "profile"
+  },
+  "MU": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Semiconductors",
+      "ipo": "1984-06-01",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MU.png",
+      "marketCapitalization": 265968.2984194408,
+      "name": "Micron Technology Inc",
+      "phone": "12083684000",
+      "shareOutstanding": 1122.47,
+      "ticker": "MU",
+      "weburl": "https://www.micron.com/"
+    },
+    "cached_date": "2025-11-14T01:12:14.632927",
+    "cache_type": "profile"
+  },
+  "QCOM": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Semiconductors",
+      "ipo": "1991-12-13",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/QCOM.png",
+      "marketCapitalization": 186889.49806308656,
+      "name": "Qualcomm Inc",
+      "phone": "18585871121",
+      "shareOutstanding": 1077.8,
+      "ticker": "QCOM",
+      "weburl": "https://www.qualcomm.com/"
+    },
+    "cached_date": "2025-11-14T01:12:21.783654",
+    "cache_type": "profile"
+  },
+  "JPM": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Banking",
+      "ipo": "1969-03-05",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/JPM.png",
+      "marketCapitalization": 842485.7174610766,
+      "name": "JPMorgan Chase & Co",
+      "phone": "12122706000",
+      "shareOutstanding": 2749.75,
+      "ticker": "JPM",
+      "weburl": "https://www.jpmorganchase.com/"
+    },
+    "cached_date": "2025-11-14T01:12:35.725647",
+    "cache_type": "profile"
+  },
+  "BAC": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Banking",
+      "ipo": "1979-06-05",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BAC.png",
+      "marketCapitalization": 386082.9470160789,
+      "name": "Bank of America Corp",
+      "phone": "17043868486",
+      "shareOutstanding": 7329.42,
+      "ticker": "BAC",
+      "weburl": "https://www.bankofamerica.com"
+    },
+    "cached_date": "2025-11-14T01:12:44.074208",
+    "cache_type": "profile"
+  },
+  "WFC": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Banking",
+      "ipo": "1962-12-10",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/WFC.png",
+      "marketCapitalization": 278603.28177900007,
+      "name": "Wells Fargo & Co",
+      "phone": "18008693557",
+      "shareOutstanding": 3148.94,
+      "ticker": "WFC",
+      "weburl": "https://www.wellsfargo.com"
+    },
+    "cached_date": "2025-11-14T01:12:56.803768",
+    "cache_type": "profile"
+  },
+  "C": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Banking",
+      "ipo": "1986-10-30",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/C.png",
+      "marketCapitalization": 180125.42443367315,
+      "name": "Citigroup Inc",
+      "phone": "12125591000",
+      "shareOutstanding": 1789.3,
+      "ticker": "C",
+      "weburl": "http://www.citigroup.com/"
+    },
+    "cached_date": "2025-11-14T01:13:05.958640",
+    "cache_type": "profile"
+  },
+  "USB": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Banking",
+      "ipo": "1984-05-07",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/USB.png",
+      "marketCapitalization": 74092.09957599916,
+      "name": "US Bancorp",
+      "phone": "16514663000",
+      "shareOutstanding": 1556.19,
+      "ticker": "USB",
+      "weburl": "https://www.usbank.com/"
+    },
+    "cached_date": "2025-11-14T01:13:14.310049",
+    "cache_type": "profile"
+  },
+  "PYPL": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "2015-07-06",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PYPL.png",
+      "marketCapitalization": 61126.13692958661,
+      "name": "PayPal Holdings Inc",
+      "phone": "14089671000",
+      "shareOutstanding": 955.38,
+      "ticker": "PYPL",
+      "weburl": "https://www.paypal.com/"
+    },
+    "cached_date": "2025-11-14T01:13:24.144641",
+    "cache_type": "profile"
+  },
+  "V": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "2008-03-25",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/V.png",
+      "marketCapitalization": 648725.139659,
+      "name": "Visa Inc",
+      "phone": "16504323200",
+      "shareOutstanding": 1926.6,
+      "ticker": "V",
+      "weburl": "https://usa.visa.com/"
+    },
+    "cached_date": "2025-11-14T01:13:34.889807",
+    "cache_type": "profile"
+  },
+  "MA": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "2006-05-25",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MA.png",
+      "marketCapitalization": 498899.53352847573,
+      "name": "Mastercard Inc",
+      "phone": "19142492000",
+      "shareOutstanding": 904.01,
+      "ticker": "MA",
+      "weburl": "https://www.mastercard.us/"
+    },
+    "cached_date": "2025-11-14T01:13:45.079611",
+    "cache_type": "profile"
+  },
+  "XYZ": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "2015-11-19",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SQ.png",
+      "marketCapitalization": 46279.76607600001,
+      "name": "Block Inc",
+      "phone": "14153753176",
+      "shareOutstanding": 609.58,
+      "ticker": "XYZ",
+      "weburl": "https://squareup.com"
+    },
+    "cached_date": "2025-11-14T01:13:55.431783",
+    "cache_type": "profile"
+  },
+  "FISV": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "1986-09-25",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FISV.png",
+      "marketCapitalization": 34707.57954071016,
+      "name": "Fiserv Inc",
+      "phone": "12628795000",
+      "shareOutstanding": 543.59,
+      "ticker": "FISV",
+      "weburl": "https://www.fiserv.com/"
+    },
+    "cached_date": "2025-11-14T01:14:11.000725",
+    "cache_type": "profile"
+  },
+  "NFLX": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Media",
+      "ipo": "2002-05-23",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NFLX.png",
+      "marketCapitalization": 489084.5676278463,
+      "name": "Netflix Inc",
+      "phone": "14085403700",
+      "shareOutstanding": 424.93,
+      "ticker": "NFLX",
+      "weburl": "https://www.netflix.com/"
+    },
+    "cached_date": "2025-11-14T01:14:26.917352",
+    "cache_type": "profile"
+  },
+  "DIS": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Media",
+      "ipo": "1957-11-12",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DIS.png",
+      "marketCapitalization": 193475.6628258905,
+      "name": "Walt Disney Co",
+      "phone": "18185601000",
+      "shareOutstanding": 1797.93,
+      "ticker": "DIS",
+      "weburl": "https://thewaltdisneycompany.com/"
+    },
+    "cached_date": "2025-11-14T01:14:38.227515",
+    "cache_type": "profile"
+  },
+  "WBD": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Media",
+      "ipo": "2005-07-06",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959073106.png",
+      "marketCapitalization": 55184.964979,
+      "name": "Warner Bros Discovery Inc",
+      "phone": "12125485555",
+      "shareOutstanding": 2475.77,
+      "ticker": "WBD",
+      "weburl": "https://www.wbd.com/"
+    },
+    "cached_date": "2025-11-14T01:14:54.716603",
+    "cache_type": "profile"
+  },
+  "TKO": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Media",
+      "ipo": "1999-10-19",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950865844746.png",
+      "marketCapitalization": 35629.587043274776,
+      "name": "TKO Group Holdings Inc",
+      "phone": "16465588333",
+      "shareOutstanding": 198.3,
+      "ticker": "TKO",
+      "weburl": "https://tkogrp.com/"
+    },
+    "cached_date": "2025-11-14T01:15:06.187645",
+    "cache_type": "profile"
+  },
+  "FWONA": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Media",
+      "ipo": "2016-04-18",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FWONA.png",
+      "marketCapitalization": 32781.818017972335,
+      "name": "Formula One Group",
+      "phone": "17208755400",
+      "shareOutstanding": 250.05,
+      "ticker": "FWONA",
+      "weburl": "https://www.libertymedia.com/tracking-stocks/formula-one-group"
+    },
+    "cached_date": "2025-11-14T01:15:15.950167",
+    "cache_type": "profile"
+  },
+  "WMT": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Retail",
+      "ipo": "1972-08-25",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/WMT.png",
+      "marketCapitalization": 815064.5625,
+      "name": "Walmart Inc",
+      "phone": "15012734000",
+      "shareOutstanding": 7972.85,
+      "ticker": "WMT",
+      "weburl": "https://corporate.walmart.com/"
+    },
+    "cached_date": "2025-11-14T01:15:31.943581",
+    "cache_type": "profile"
+  },
+  "COST": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Retail",
+      "ipo": "1985-12-05",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/COST.png",
+      "marketCapitalization": 409976.2136133445,
+      "name": "Costco Wholesale Corp",
+      "phone": "14253138100",
+      "shareOutstanding": 443.18,
+      "ticker": "COST",
+      "weburl": "https://www.costco.com/"
+    },
+    "cached_date": "2025-11-14T01:15:46.256431",
+    "cache_type": "profile"
+  },
+  "TGT": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Retail",
+      "ipo": "1969-09-08",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TGT.png",
+      "marketCapitalization": 41177.654419439015,
+      "name": "Target Corp",
+      "phone": "16123046073",
+      "shareOutstanding": 454.4,
+      "ticker": "TGT",
+      "weburl": "https://corporate.target.com/"
+    },
+    "cached_date": "2025-11-14T01:15:56.865348",
+    "cache_type": "profile"
+  },
+  "DG": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Retail",
+      "ipo": "2009-11-13",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DG.png",
+      "marketCapitalization": 22932.84741037223,
+      "name": "Dollar General Corp",
+      "phone": "16158554000",
+      "shareOutstanding": 220.11,
+      "ticker": "DG",
+      "weburl": "https://www.dollargeneral.com/"
+    },
+    "cached_date": "2025-11-14T01:16:08.183331",
+    "cache_type": "profile"
+  },
+  "DLTR": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Retail",
+      "ipo": "1995-03-06",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DLTR.png",
+      "marketCapitalization": 21039.28376052976,
+      "name": "Dollar Tree Inc",
+      "phone": "17573215000",
+      "shareOutstanding": 203.97,
+      "ticker": "DLTR",
+      "weburl": "https://www.dollartree.com/"
+    },
+    "cached_date": "2025-11-14T01:16:19.982349",
+    "cache_type": "profile"
+  },
+  "ORCL": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Technology",
+      "ipo": "1986-03-12",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORCL.png",
+      "marketCapitalization": 620246.9349851251,
+      "name": "Oracle Corp",
+      "phone": "17378671000",
+      "shareOutstanding": 2850.79,
+      "ticker": "ORCL",
+      "weburl": "https://www.oracle.com/"
+    },
+    "cached_date": "2025-11-14T01:22:32.923103",
+    "cache_type": "profile"
+  },
+  "AMZN": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Retail",
+      "ipo": "1997-05-15",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
+      "marketCapitalization": 2539781.442849942,
+      "name": "Amazon.com Inc",
+      "phone": "12062661000",
+      "shareOutstanding": 10664.91,
+      "ticker": "AMZN",
+      "weburl": "https://www.amazon.com/"
+    },
+    "cached_date": "2025-11-14T01:22:53.180894",
+    "cache_type": "profile"
+  },
+  "CPNG": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Retail",
+      "ipo": "2021-03-11",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CPNG.png",
+      "marketCapitalization": 52114.252250719044,
+      "name": "Coupang Inc",
+      "phone": "12063333839",
+      "shareOutstanding": 1823.07,
+      "ticker": "CPNG",
+      "weburl": "https://www.aboutcoupang.com/"
+    },
+    "cached_date": "2025-11-14T01:23:11.662794",
+    "cache_type": "profile"
+  },
+  "EBAY": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Retail",
+      "ipo": "1998-09-23",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/EBAY.png",
+      "marketCapitalization": 38162.36039815491,
+      "name": "eBay Inc",
+      "phone": "14083767400",
+      "shareOutstanding": 457,
+      "ticker": "EBAY",
+      "weburl": "https://www.ebayinc.com/"
+    },
+    "cached_date": "2025-11-14T01:23:23.084562",
+    "cache_type": "profile"
+  },
+  "TSLA": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Automobiles",
+      "ipo": "2010-06-29",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TSLA.png",
+      "marketCapitalization": 1336946.1338040978,
+      "name": "Tesla Inc",
+      "phone": "15125168177",
+      "shareOutstanding": 3325.15,
+      "ticker": "TSLA",
+      "weburl": "https://www.tesla.com/"
+    },
+    "cached_date": "2025-11-14T01:23:47.151344",
+    "cache_type": "profile"
+  },
+  "GM": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Automobiles",
+      "ipo": "2010-08-20",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GM.png",
+      "marketCapitalization": 67063.39746002838,
+      "name": "General Motors Co",
+      "phone": "13135565000",
+      "shareOutstanding": 952.08,
+      "ticker": "GM",
+      "weburl": "https://www.gm.com/"
+    },
+    "cached_date": "2025-11-14T01:23:58.672938",
+    "cache_type": "profile"
+  },
+  "F": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Automobiles",
+      "ipo": "1956-03-07",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/F.png",
+      "marketCapitalization": 52916.10456226023,
+      "name": "Ford Motor Co",
+      "phone": "13133223000",
+      "shareOutstanding": 3979.86,
+      "ticker": "F",
+      "weburl": "https://www.ford.com/"
+    },
+    "cached_date": "2025-11-14T01:24:09.155886",
+    "cache_type": "profile"
+  },
+  "JNJ": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Pharmaceuticals",
+      "ipo": "1944-09-25",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/JNJ.png",
+      "marketCapitalization": 470414.83201930794,
+      "name": "Johnson & Johnson",
+      "phone": "17325242455",
+      "shareOutstanding": 2408.34,
+      "ticker": "JNJ",
+      "weburl": "https://www.jnj.com/"
+    },
+    "cached_date": "2025-11-14T01:24:52.782811",
+    "cache_type": "profile"
+  },
+  "LLY": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Pharmaceuticals",
+      "ipo": "1970-07-09",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LLY.png",
+      "marketCapitalization": 967004.6817221708,
+      "name": "Eli Lilly and Co",
+      "phone": "13172762000",
+      "shareOutstanding": 946.46,
+      "ticker": "LLY",
+      "weburl": "https://www.lilly.com/"
+    },
+    "cached_date": "2025-11-14T01:25:04.110868",
+    "cache_type": "profile"
+  },
+  "MRK": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Pharmaceuticals",
+      "ipo": "1941-01-01",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MRK.png",
+      "marketCapitalization": 230654.33959760022,
+      "name": "Merck & Co Inc",
+      "phone": "19087404000",
+      "shareOutstanding": 2497.78,
+      "ticker": "MRK",
+      "weburl": "https://www.merck.com/"
+    },
+    "cached_date": "2025-11-14T01:25:15.301960",
+    "cache_type": "profile"
+  },
+  "GS": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "1999-05-04",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GS.png",
+      "marketCapitalization": 241592.39615043145,
+      "name": "Goldman Sachs Group Inc",
+      "phone": "12129021000",
+      "shareOutstanding": 302.72,
+      "ticker": "GS",
+      "weburl": "https://www.goldmansachs.com/"
+    },
+    "cached_date": "2025-11-14T01:25:52.426903",
+    "cache_type": "profile"
+  },
+  "MS": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "1986-03-21",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MS.png",
+      "marketCapitalization": 263205.4944551325,
+      "name": "Morgan Stanley",
+      "phone": "12127614000",
+      "shareOutstanding": 1591,
+      "ticker": "MS",
+      "weburl": "https://www.morganstanley.com/"
+    },
+    "cached_date": "2025-11-14T01:26:04.629448",
+    "cache_type": "profile"
+  },
+  "SCHW": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "1987-09-22",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SCHW.png",
+      "marketCapitalization": 169448.6885683234,
+      "name": "Charles Schwab Corp",
+      "phone": "18178595000",
+      "shareOutstanding": 1815.22,
+      "ticker": "SCHW",
+      "weburl": "https://www.schwab.com/"
+    },
+    "cached_date": "2025-11-14T01:26:15.574325",
+    "cache_type": "profile"
+  },
+  "RKT": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "2020-08-06",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/RKT.png",
+      "marketCapitalization": 48292.514563625205,
+      "name": "Rocket Companies Inc",
+      "phone": "18002266308",
+      "shareOutstanding": 2809.72,
+      "ticker": "RKT",
+      "weburl": "https://www.rocketcompanies.com/"
+    },
+    "cached_date": "2025-11-14T01:26:45.512279",
+    "cache_type": "profile"
+  },
+  "FNMA": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "OTC MARKETS",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "1980-03-17",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959039736.png",
+      "marketCapitalization": 9994.296070061653,
+      "name": "Federal National Mortgage Association",
+      "phone": "18002326643",
+      "shareOutstanding": 1158.09,
+      "ticker": "FNMA",
+      "weburl": "https://www.fanniemae.com/"
+    },
+    "cached_date": "2025-11-14T01:27:07.761935",
+    "cache_type": "profile"
+  },
+  "UWMC": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Financial Services",
+      "ipo": "2020-01-24",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950715747746.png",
+      "marketCapitalization": 8927.774775,
+      "name": "UWM Holdings Corp",
+      "phone": "18009818898",
+      "shareOutstanding": 1599.32,
+      "ticker": "UWMC",
+      "weburl": "https://investors.uwm.com/"
+    },
+    "cached_date": "2025-11-14T01:27:18.249750",
+    "cache_type": "profile"
+  },
+  "PG": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Consumer products",
+      "ipo": "1950-03-22",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PG.png",
+      "marketCapitalization": 345743.0608014143,
+      "name": "Procter & Gamble Co",
+      "phone": "15139831100",
+      "shareOutstanding": 2340.49,
+      "ticker": "PG",
+      "weburl": "https://us.pg.com/"
+    },
+    "cached_date": "2025-11-14T01:27:45.147877",
+    "cache_type": "profile"
+  },
+  "CL": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Consumer products",
+      "ipo": "1930-03-31",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CL.png",
+      "marketCapitalization": 63509.8547597621,
+      "name": "Colgate-Palmolive Co",
+      "phone": "12123102000",
+      "shareOutstanding": 808.22,
+      "ticker": "CL",
+      "weburl": "https://www.colgatepalmolive.com/"
+    },
+    "cached_date": "2025-11-14T01:27:58.832150",
+    "cache_type": "profile"
+  },
+  "KMB": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Consumer products",
+      "ipo": "1929-05-09",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/KMB.png",
+      "marketCapitalization": 34662.61063137389,
+      "name": "Kimberly-Clark Corp",
+      "phone": "19722811200",
+      "shareOutstanding": 331.78,
+      "ticker": "KMB",
+      "weburl": "https://www.kimberly-clark.com/en-us"
+    },
+    "cached_date": "2025-11-14T01:28:19.353739",
+    "cache_type": "profile"
+  },
+  "VZ": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Telecommunication",
+      "ipo": "1984-02-15",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/VZ.png",
+      "marketCapitalization": 165789.84764649608,
+      "name": "Verizon Communications Inc",
+      "phone": "12123951000",
+      "shareOutstanding": 4216.32,
+      "ticker": "VZ",
+      "weburl": "https://www.verizon.com/"
+    },
+    "cached_date": "2025-11-14T01:28:40.739882",
+    "cache_type": "profile"
+  },
+  "T": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "finnhubIndustry": "Telecommunication",
+      "ipo": "1983-11-21",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/T.png",
+      "marketCapitalization": 182553.32724115983,
+      "name": "AT&T Inc",
+      "phone": "12108214105",
+      "shareOutstanding": 7150.39,
+      "ticker": "T",
+      "weburl": "https://www.att.com/"
+    },
+    "cached_date": "2025-11-14T01:28:52.267196",
+    "cache_type": "profile"
+  },
+  "FYBR": {
+    "data": {
+      "country": "US",
+      "currency": "USD",
+      "estimateCurrency": "USD",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "finnhubIndustry": "Telecommunication",
+      "ipo": "2021-05-04",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950800550696.png",
+      "marketCapitalization": 9472.789594033722,
+      "name": "Frontier Communications Parent Inc",
+      "phone": "12036145600",
+      "shareOutstanding": 250.31,
+      "ticker": "FYBR",
+      "weburl": "https://frontier.com/"
+    },
+    "cached_date": "2025-11-14T01:29:04.394115",
+    "cache_type": "profile"
+  }
+}

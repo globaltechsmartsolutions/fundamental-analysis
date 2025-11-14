@@ -1,0 +1,17 @@
+{
+  "symbol": "AVGO",
+  "sector": "Semiconductors",
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "growth_adjustment_factor": 1.8956068857338824,
+  "wacc_adjustment_factor": 1.0681786117175849,
+  "terminal_growth_rate": 2.5,
+  "fcf_stability_score": 0.4486,
+  "beta": 1.2,
+  "debt_ratio": 0.0421,
+  "note": "Parámetros específicos calculados dinámicamente (como Alpha Spread)",
+  "error": 3.6273855129936377,
+  "error_pct": 36.614345729682555,
+  "trained": true,
+  "training_note": "Modelo entrenado individualmente hasta alcanzar error < 10.0%"
+}

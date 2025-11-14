@@ -1,0 +1,436 @@
+{
+  "AAPL": {
+    "data": [
+      "AAPL",
+      "DELL",
+      "WDC",
+      "SNDK",
+      "HPE",
+      "PSTG",
+      "HPQ",
+      "NTAP",
+      "SMCI",
+      "IONQ",
+      "CMPO",
+      "DBD"
+    ],
+    "cached_date": "2025-11-14T01:09:18.593178",
+    "cache_type": "peers"
+  },
+  "MSFT": {
+    "data": [
+      "MSFT",
+      "ORCL",
+      "NOW",
+      "PANW",
+      "CRWD",
+      "FTNT",
+      "ZS",
+      "GEN",
+      "RBRK",
+      "NTSK",
+      "PATH",
+      "GTLB"
+    ],
+    "cached_date": "2025-11-14T01:09:41.403690",
+    "cache_type": "peers"
+  },
+  "GOOGL": {
+    "data": [
+      "GOOGL",
+      "META",
+      "RDDT",
+      "PINS",
+      "SNAP",
+      "MTCH",
+      "CARG",
+      "DJT",
+      "GTM",
+      "GRND",
+      "IAC"
+    ],
+    "cached_date": "2025-11-14T01:10:26.158059",
+    "cache_type": "peers"
+  },
+  "UNH": {
+    "data": [
+      "UNH",
+      "ELV",
+      "HUM",
+      "CNC",
+      "HQY",
+      "MOH",
+      "ALHC",
+      "PGNY",
+      "CLOV",
+      "PFHO",
+      "MRDH",
+      "ACGI"
+    ],
+    "cached_date": "2025-11-14T01:11:12.401360",
+    "cache_type": "peers"
+  },
+  "NVDA": {
+    "data": [
+      "NVDA",
+      "AVGO",
+      "AMD",
+      "MU",
+      "QCOM",
+      "INTC",
+      "TXN",
+      "ADI",
+      "MRVL",
+      "MRVL",
+      "MPWR"
+    ],
+    "cached_date": "2025-11-14T01:11:42.062665",
+    "cache_type": "peers"
+  },
+  "AVGO": {
+    "data": [
+      "NVDA",
+      "AVGO",
+      "AMD",
+      "MU",
+      "QCOM",
+      "INTC",
+      "TXN",
+      "ADI",
+      "MRVL",
+      "MRVL",
+      "MPWR"
+    ],
+    "cached_date": "2025-11-14T01:12:23.349235",
+    "cache_type": "peers"
+  },
+  "JPM": {
+    "data": [
+      "JPM",
+      "BAC",
+      "WFC",
+      "C",
+      "USB",
+      "PNC",
+      "FITB",
+      "FCNCA",
+      "KEY",
+      "CMA",
+      "FINN",
+      "FNBT"
+    ],
+    "cached_date": "2025-11-14T01:12:36.289665",
+    "cache_type": "peers"
+  },
+  "PYPL": {
+    "data": [
+      "V",
+      "MA",
+      "PYPL",
+      "XYZ",
+      "FISV",
+      "FIS",
+      "AFRM",
+      "TOST",
+      "CPAY",
+      "GPN",
+      "JKHY",
+      "CHYM"
+    ],
+    "cached_date": "2025-11-14T01:13:25.123460",
+    "cache_type": "peers"
+  },
+  "NFLX": {
+    "data": [
+      "NFLX",
+      "DIS",
+      "WBD",
+      "TKO",
+      "FWONA",
+      "LYV",
+      "WMG",
+      "ROKU",
+      "MSGS",
+      "CNK",
+      "SPHR"
+    ],
+    "cached_date": "2025-11-14T01:14:27.599516",
+    "cache_type": "peers"
+  },
+  "WMT": {
+    "data": [
+      "WMT",
+      "COST",
+      "TGT",
+      "DG",
+      "DLTR",
+      "BJ",
+      "PSMT",
+      "OBDP"
+    ],
+    "cached_date": "2025-11-14T01:15:32.772124",
+    "cache_type": "peers"
+  },
+  "MA": {
+    "data": [
+      "V",
+      "MA",
+      "PYPL",
+      "XYZ",
+      "FISV",
+      "FIS",
+      "AFRM",
+      "TOST",
+      "CPAY",
+      "GPN",
+      "JKHY",
+      "CHYM"
+    ],
+    "cached_date": "2025-11-14T01:16:21.744546",
+    "cache_type": "peers"
+  },
+  "DIS": {
+    "data": [
+      "NFLX",
+      "DIS",
+      "WBD",
+      "TKO",
+      "FWONA",
+      "LYV",
+      "WMG",
+      "ROKU",
+      "MSGS",
+      "CNK",
+      "SPHR"
+    ],
+    "cached_date": "2025-11-14T01:16:28.986408",
+    "cache_type": "peers"
+  },
+  "META": {
+    "data": [
+      "GOOGL",
+      "META",
+      "RDDT",
+      "PINS",
+      "SNAP",
+      "MTCH",
+      "CARG",
+      "DJT",
+      "GTM",
+      "GRND",
+      "IAC"
+    ],
+    "cached_date": "2025-11-14T01:22:41.459198",
+    "cache_type": "peers"
+  },
+  "AMZN": {
+    "data": [
+      "AMZN",
+      "CPNG",
+      "EBAY",
+      "DDS",
+      "OLLI",
+      "ETSY",
+      "M",
+      "PTRN",
+      "KSS",
+      "SVV",
+      "GRPN"
+    ],
+    "cached_date": "2025-11-14T01:22:54.161512",
+    "cache_type": "peers"
+  },
+  "TSLA": {
+    "data": [
+      "TSLA",
+      "GM",
+      "F",
+      "RIVN",
+      "THO",
+      "LCID",
+      "WGO",
+      "FFAI",
+      "CENN",
+      "ECDA",
+      "NRDE"
+    ],
+    "cached_date": "2025-11-14T01:23:48.031294",
+    "cache_type": "peers"
+  },
+  "DELL": {
+    "data": [
+      "AAPL",
+      "DELL",
+      "WDC",
+      "SNDK",
+      "HPE",
+      "PSTG",
+      "HPQ",
+      "NTAP",
+      "SMCI",
+      "IONQ",
+      "CMPO",
+      "DBD"
+    ],
+    "cached_date": "2025-11-14T01:24:11.735450",
+    "cache_type": "peers"
+  },
+  "HPE": {
+    "data": [
+      "AAPL",
+      "DELL",
+      "WDC",
+      "SNDK",
+      "HPE",
+      "PSTG",
+      "HPQ",
+      "NTAP",
+      "SMCI",
+      "IONQ",
+      "CMPO",
+      "DBD"
+    ],
+    "cached_date": "2025-11-14T01:24:16.778176",
+    "cache_type": "peers"
+  },
+  "JNJ": {
+    "data": [
+      "LLY",
+      "JNJ",
+      "MRK",
+      "PFE",
+      "BMY",
+      "ZTS",
+      "RPRX",
+      "VTRS",
+      "ELAN",
+      "CORT"
+    ],
+    "cached_date": "2025-11-14T01:24:54.109954",
+    "cache_type": "peers"
+  },
+  "BAC": {
+    "data": [
+      "JPM",
+      "BAC",
+      "WFC",
+      "C",
+      "USB",
+      "PNC",
+      "FITB",
+      "FCNCA",
+      "KEY",
+      "CMA",
+      "FINN",
+      "FNBT"
+    ],
+    "cached_date": "2025-11-14T01:25:31.981279",
+    "cache_type": "peers"
+  },
+  "GS": {
+    "data": [
+      "MS",
+      "GS",
+      "SCHW",
+      "IBKR",
+      "HOOD",
+      "RJF",
+      "LPLA",
+      "HLI",
+      "SF",
+      "EVR",
+      "JEF",
+      "FRHC"
+    ],
+    "cached_date": "2025-11-14T01:25:53.609239",
+    "cache_type": "peers"
+  },
+  "C": {
+    "data": [
+      "JPM",
+      "BAC",
+      "WFC",
+      "C",
+      "USB",
+      "PNC",
+      "FITB",
+      "FCNCA",
+      "KEY",
+      "CMA",
+      "FINN",
+      "FNBT"
+    ],
+    "cached_date": "2025-11-14T01:26:18.068988",
+    "cache_type": "peers"
+  },
+  "SCHW": {
+    "data": [
+      "MS",
+      "GS",
+      "SCHW",
+      "IBKR",
+      "HOOD",
+      "RJF",
+      "LPLA",
+      "HLI",
+      "SF",
+      "EVR",
+      "JEF",
+      "FRHC"
+    ],
+    "cached_date": "2025-11-14T01:26:23.125766",
+    "cache_type": "peers"
+  },
+  "RKT": {
+    "data": [
+      "RKT",
+      "FNMA",
+      "UWMC",
+      "PFSI",
+      "MTG",
+      "ACT",
+      "FMCC",
+      "RDN",
+      "NMIH",
+      "WD",
+      "AGM"
+    ],
+    "cached_date": "2025-11-14T01:26:46.597610",
+    "cache_type": "peers"
+  },
+  "PG": {
+    "data": [
+      "PG",
+      "CL",
+      "KMB",
+      "CHD",
+      "CLX",
+      "REYN",
+      "WDFC",
+      "CENT",
+      "ENR",
+      "SPB",
+      "ODC",
+      "PURE"
+    ],
+    "cached_date": "2025-11-14T01:27:46.146226",
+    "cache_type": "peers"
+  },
+  "VZ": {
+    "data": [
+      "T",
+      "VZ",
+      "FYBR",
+      "UNIT",
+      "IDT",
+      "GLIBA",
+      "SHEN",
+      "ATNI",
+      "GLTK",
+      "LICT",
+      "NUVR"
+    ],
+    "cached_date": "2025-11-14T01:28:41.771389",
+    "cache_type": "peers"
+  }
+}

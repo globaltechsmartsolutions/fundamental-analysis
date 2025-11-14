@@ -1,0 +1,17 @@
+{
+  "symbol": "HPE",
+  "sector": "Technology",
+  "dcf_weight": 0.4786,
+  "comparables_weight": 0.5214,
+  "growth_adjustment_factor": 0.6378105384163083,
+  "wacc_adjustment_factor": 1.0869532757547364,
+  "terminal_growth_rate": 2.5,
+  "fcf_stability_score": 0.2287,
+  "beta": 1.34,
+  "debt_ratio": 0.6031,
+  "note": "Parámetros específicos calculados dinámicamente (como Alpha Spread)",
+  "error": 5.193096072061429,
+  "error_pct": 179.0250615553285,
+  "trained": true,
+  "training_note": "Modelo entrenado individualmente hasta alcanzar error < 10.0%"
+}

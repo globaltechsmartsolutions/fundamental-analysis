@@ -1,0 +1,10 @@
+{
+  "symbol": "PG",
+  "growth_adjustment_factor": 0.5281482980260872,
+  "wacc_adjustment_factor": 1.3271676383102833,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 0.047351835307271536,
+  "target_value": 117.73,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

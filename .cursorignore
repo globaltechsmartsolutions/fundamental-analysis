@@ -1,0 +1,17 @@
+# Archivos de logs grandes que pueden causar problemas de serialización
+var/logs/*.log
+var/logs/*.log.*
+var/logs/*.zip
+
+# Archivos de caché grandes
+training_cache.json
+training_checkpoint.json
+training_status.json
+
+# Archivos temporales
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+*.pyo
+

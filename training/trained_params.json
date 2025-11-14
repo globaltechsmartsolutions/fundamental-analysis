@@ -1,0 +1,10 @@
+{
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "growth_adjustment_factor": 1.2999999999997138,
+  "wacc_adjustment_factor": 0.8684361796607635,
+  "note": "Modo Alpha Spread: 50/50 fijo, ERP 4.12%, Terminal growth conservador (1.5%)",
+  "error": 3.6060353161283873,
+  "error_pct": 35.81978424734175,
+  "iteration": 400
+}

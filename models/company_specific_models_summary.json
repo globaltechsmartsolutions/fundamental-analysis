@@ -1,0 +1,219 @@
+{
+  "total_companies": 26,
+  "trained_companies": 20,
+  "failed_companies": [
+    "JPM",
+    "BAC",
+    "GS",
+    "C",
+    "RKT",
+    "BLOCK"
+  ],
+  "models": {
+    "AAPL": {
+      "symbol": "AAPL",
+      "growth_adjustment_factor": 1.5656463715770306,
+      "wacc_adjustment_factor": 0.8470168312974476,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 0.09133771765240295,
+      "target_value": 178.2,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "MSFT": {
+      "symbol": "MSFT",
+      "growth_adjustment_factor": 0.5809566225036524,
+      "wacc_adjustment_factor": 1.0879295927640242,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 2.836777202675994e-09,
+      "target_value": 413.12,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "GOOGL": {
+      "symbol": "GOOGL",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 3.231363982198411,
+      "target_value": 179.13,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "META": {
+      "symbol": "META",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 4.407343642987747,
+      "target_value": 544.05,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "AMZN": {
+      "symbol": "AMZN",
+      "growth_adjustment_factor": 0.9686519006329758,
+      "wacc_adjustment_factor": 0.9609190678136565,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 0.3224925870261527,
+      "target_value": 169.08,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "NVDA": {
+      "symbol": "NVDA",
+      "growth_adjustment_factor": 1.6,
+      "wacc_adjustment_factor": 0.6,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 36.922688899317954,
+      "target_value": 156.86,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "AVGO": {
+      "symbol": "AVGO",
+      "growth_adjustment_factor": 1.6,
+      "wacc_adjustment_factor": 0.6,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 17.524531393785715,
+      "target_value": 249.89,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "NFLX": {
+      "symbol": "NFLX",
+      "growth_adjustment_factor": 0.41498160475389445,
+      "wacc_adjustment_factor": 0.6574931872089654,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 0.2502979462565535,
+      "target_value": 523.93,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "TSLA": {
+      "symbol": "TSLA",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 207.25638455579406,
+      "target_value": 43.5,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "DELL": {
+      "symbol": "DELL",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 17.353106916296955,
+      "target_value": 216.87,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "HPE": {
+      "symbol": "HPE",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 149.83463307817428,
+      "target_value": 33.42,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "UNH": {
+      "symbol": "UNH",
+      "growth_adjustment_factor": 0.8244741157888952,
+      "wacc_adjustment_factor": 0.9745720110058667,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 1.4539276773896221,
+      "target_value": 460.02,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 26.400117809596935,
+      "target_value": 173.91,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "PYPL": {
+      "symbol": "PYPL",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 64.96994932253098,
+      "target_value": 93.94,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "MA": {
+      "symbol": "MA",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 40.01411162602611,
+      "target_value": 188.49,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "SCHW": {
+      "symbol": "SCHW",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 17.276332254049596,
+      "target_value": 146.59,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "WMT": {
+      "symbol": "WMT",
+      "growth_adjustment_factor": 0.49087586185584475,
+      "wacc_adjustment_factor": 1.3445833129339497,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 0.884869751420415,
+      "target_value": 62.11,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "DIS": {
+      "symbol": "DIS",
+      "growth_adjustment_factor": 1.385066636259297,
+      "wacc_adjustment_factor": 0.8827862158782157,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 0.1649596565696301,
+      "target_value": 138.13,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "PG": {
+      "symbol": "PG",
+      "growth_adjustment_factor": 0.5281482980260872,
+      "wacc_adjustment_factor": 1.3271676383102833,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 0.047351835307271536,
+      "target_value": 117.73,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    },
+    "VZ": {
+      "symbol": "VZ",
+      "growth_adjustment_factor": 0.4,
+      "wacc_adjustment_factor": 1.4,
+      "dcf_weight": 0.5,
+      "comparables_weight": 0.5,
+      "error": 148.5680682538731,
+      "target_value": 61.69,
+      "note": "Parámetros específicos entrenados para esta empresa"
+    }
+  },
+  "statistics": {
+    "error_mean": 36.848693445454536,
+    "error_min": 2.836777202675994e-09,
+    "error_max": 207.25638455579406
+  }
+}

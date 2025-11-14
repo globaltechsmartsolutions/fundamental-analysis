@@ -1,0 +1,156 @@
+{
+  "iteration": 400,
+  "total_iterations": 400,
+  "best_params": {
+    "dcf_weight": 0.5,
+    "comparables_weight": 0.5,
+    "growth_adjustment_factor": 1.2999999999997138,
+    "wacc_adjustment_factor": 0.8684361796607635,
+    "note": "Modo Alpha Spread: 50/50 fijo, ERP 4.12%, Terminal growth conservador (1.5%)",
+    "error": 3.6060353161283873,
+    "error_pct": 35.81978424734175,
+    "iteration": 400
+  },
+  "error_train": 3.61,
+  "companies_train": [
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "META",
+    "AMZN",
+    "NVDA",
+    "AVGO",
+    "NFLX",
+    "TSLA",
+    "DELL",
+    "HPE",
+    "DIS",
+    "MA"
+  ],
+  "results_by_company": [
+    {
+      "symbol": "DIS",
+      "estimated_value": 129.99,
+      "target_value": 138.13,
+      "error_pct": 5.89,
+      "sector": "Media",
+      "dcf_value": 81.09,
+      "comparables_value": 178.9
+    },
+    {
+      "symbol": "NFLX",
+      "estimated_value": 483.75,
+      "target_value": 523.93,
+      "error_pct": 7.67,
+      "sector": "Media",
+      "dcf_value": 206.14,
+      "comparables_value": 761.36
+    },
+    {
+      "symbol": "MA",
+      "estimated_value": 339.11,
+      "target_value": 188.49,
+      "error_pct": 79.91,
+      "sector": "Financial Services",
+      "dcf_value": 319.95,
+      "comparables_value": 358.27
+    },
+    {
+      "symbol": "AVGO",
+      "estimated_value": 156.83,
+      "target_value": 249.89,
+      "error_pct": 37.24,
+      "sector": "Semiconductors",
+      "dcf_value": 69.82,
+      "comparables_value": 243.83
+    },
+    {
+      "symbol": "META",
+      "estimated_value": 684.96,
+      "target_value": 544.05,
+      "error_pct": 25.9,
+      "sector": "Media",
+      "dcf_value": 516.73,
+      "comparables_value": 853.19
+    },
+    {
+      "symbol": "NVDA",
+      "estimated_value": 84.54,
+      "target_value": 156.86,
+      "error_pct": 46.11,
+      "sector": "Semiconductors",
+      "dcf_value": 25.87,
+      "comparables_value": 143.21
+    },
+    {
+      "symbol": "TSLA",
+      "estimated_value": 130.26,
+      "target_value": 43.5,
+      "error_pct": 199.44,
+      "sector": "Automobiles",
+      "dcf_value": 12.67,
+      "comparables_value": 247.85
+    },
+    {
+      "symbol": "MSFT",
+      "estimated_value": 434.54,
+      "target_value": 413.12,
+      "error_pct": 5.18,
+      "sector": "Technology",
+      "dcf_value": 174.7,
+      "comparables_value": 694.38
+    },
+    {
+      "symbol": "GOOGL",
+      "estimated_value": 208.21,
+      "target_value": 179.13,
+      "error_pct": 16.23,
+      "sector": "Media",
+      "dcf_value": 101.62,
+      "comparables_value": 314.79
+    },
+    {
+      "symbol": "AMZN",
+      "estimated_value": 170.02,
+      "target_value": 169.08,
+      "error_pct": 0.56,
+      "sector": "Retail",
+      "dcf_value": 159.7,
+      "comparables_value": 180.34
+    },
+    {
+      "symbol": "AAPL",
+      "estimated_value": 156.77,
+      "target_value": 178.2,
+      "error_pct": 12.02,
+      "sector": "Technology",
+      "dcf_value": 120.09,
+      "comparables_value": 193.46
+    },
+    {
+      "symbol": "DELL",
+      "estimated_value": 249.82,
+      "target_value": 216.87,
+      "error_pct": 15.19,
+      "sector": "Technology",
+      "dcf_value": 66.62,
+      "comparables_value": 433.01
+    },
+    {
+      "symbol": "HPE",
+      "estimated_value": 102.18,
+      "target_value": 33.42,
+      "error_pct": 205.73,
+      "sector": "Technology",
+      "dcf_value": 81.98,
+      "comparables_value": 122.37
+    }
+  ],
+  "summary": {
+    "error_mean": 50.54,
+    "error_max": 205.73,
+    "error_min": 0.56,
+    "companies_error_lt_10": 4,
+    "companies_error_lt_20": 7
+  }
+}

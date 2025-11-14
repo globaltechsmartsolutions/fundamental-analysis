@@ -1,0 +1,10 @@
+{
+  "symbol": "UNH",
+  "growth_adjustment_factor": 0.8244741157888952,
+  "wacc_adjustment_factor": 0.9745720110058667,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 1.4539276773896221,
+  "target_value": 460.02,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

@@ -1,0 +1,10 @@
+{
+  "symbol": "DIS",
+  "growth_adjustment_factor": 1.385066636259297,
+  "wacc_adjustment_factor": 0.8827862158782157,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 0.1649596565696301,
+  "target_value": 138.13,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

@@ -1,0 +1,10 @@
+{
+  "symbol": "AMZN",
+  "growth_adjustment_factor": 0.9686519006329758,
+  "wacc_adjustment_factor": 0.9609190678136565,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 0.3224925870261527,
+  "target_value": 169.08,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

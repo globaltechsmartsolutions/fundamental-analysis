@@ -1,0 +1,17 @@
+{
+  "symbol": "MSFT",
+  "sector": "Technology",
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "growth_adjustment_factor": 1.7060111992519427,
+  "wacc_adjustment_factor": 1.3150490004776803,
+  "terminal_growth_rate": 2.5,
+  "fcf_stability_score": 0.7,
+  "beta": 1.07,
+  "debt_ratio": 0.0115,
+  "note": "Parámetros específicos calculados dinámicamente (como Alpha Spread)",
+  "error": 0.022967003926161068,
+  "error_pct": 0.0232327763259516,
+  "trained": true,
+  "training_note": "Modelo entrenado - mejor error encontrado: 0.02%"
+}

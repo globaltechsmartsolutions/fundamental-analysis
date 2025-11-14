@@ -1,0 +1,10 @@
+{
+  "symbol": "AAPL",
+  "growth_adjustment_factor": 1.5656463715770306,
+  "wacc_adjustment_factor": 0.8470168312974476,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 0.09133771765240295,
+  "target_value": 178.2,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

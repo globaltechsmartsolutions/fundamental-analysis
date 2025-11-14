@@ -1,0 +1,10 @@
+{
+  "symbol": "MSFT",
+  "growth_adjustment_factor": 0.5809566225036524,
+  "wacc_adjustment_factor": 1.0879295927640242,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 2.836777202675994e-09,
+  "target_value": 413.12,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

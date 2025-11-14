@@ -1,0 +1,17 @@
+{
+  "symbol": "AAPL",
+  "sector": "Technology",
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "growth_adjustment_factor": 1.4270586077269996,
+  "wacc_adjustment_factor": 0.829225699298348,
+  "terminal_growth_rate": 2.5,
+  "fcf_stability_score": 0.7,
+  "beta": 1.1,
+  "debt_ratio": 0.0225,
+  "note": "Parámetros específicos calculados dinámicamente (como Alpha Spread)",
+  "error": 0.04238264028128087,
+  "error_pct": 0.04329360854415707,
+  "trained": true,
+  "training_note": "Modelo entrenado hasta alcanzar error 0.04%"
+}

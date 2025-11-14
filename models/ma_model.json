@@ -1,0 +1,10 @@
+{
+  "symbol": "MA",
+  "growth_adjustment_factor": 0.4,
+  "wacc_adjustment_factor": 1.4,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 40.01411162602611,
+  "target_value": 188.49,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

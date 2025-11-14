@@ -1,0 +1,203 @@
+{
+  "AAPL": {
+    "data": {
+      "actual": 1.85,
+      "estimate": 1.8075,
+      "period": "2025-09-30",
+      "quarter": 4,
+      "surprise": 0.0425,
+      "surprisePercent": 2.3513,
+      "symbol": "AAPL",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:07.069193",
+    "cache_type": "earnings"
+  },
+  "MSFT": {
+    "data": {
+      "actual": 4.13,
+      "estimate": 3.7391,
+      "period": "2025-09-30",
+      "quarter": 1,
+      "surprise": 0.3909,
+      "surprisePercent": 10.4544,
+      "symbol": "MSFT",
+      "year": 2026
+    },
+    "cached_date": "2025-11-14T01:09:07.668924",
+    "cache_type": "earnings"
+  },
+  "GOOGL": {
+    "data": {
+      "actual": 3.1,
+      "estimate": 2.3954,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.7046,
+      "surprisePercent": 29.4147,
+      "symbol": "GOOGL",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:08.402158",
+    "cache_type": "earnings"
+  },
+  "AMZN": {
+    "data": {
+      "actual": 1.95,
+      "estimate": 1.6041,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.3459,
+      "surprisePercent": 21.5635,
+      "symbol": "AMZN",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:09.065461",
+    "cache_type": "earnings"
+  },
+  "META": {
+    "data": {
+      "actual": 7.25,
+      "estimate": 6.8245,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.4255,
+      "surprisePercent": 6.2349,
+      "symbol": "META",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:09.664737",
+    "cache_type": "earnings"
+  },
+  "UNH": {
+    "data": {
+      "actual": 2.92,
+      "estimate": 2.8218,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.0982,
+      "surprisePercent": 3.48,
+      "symbol": "UNH",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:10.144014",
+    "cache_type": "earnings"
+  },
+  "NVDA": {
+    "data": {
+      "actual": 1.05,
+      "estimate": 1.0281,
+      "period": "2025-09-30",
+      "quarter": 2,
+      "surprise": 0.0219,
+      "surprisePercent": 2.1301,
+      "symbol": "NVDA",
+      "year": 2026
+    },
+    "cached_date": "2025-11-14T01:09:10.633065",
+    "cache_type": "earnings"
+  },
+  "AVGO": {
+    "data": {
+      "actual": 1.69,
+      "estimate": 1.6816,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.0084,
+      "surprisePercent": 0.4995,
+      "symbol": "AVGO",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:11.088455",
+    "cache_type": "earnings"
+  },
+  "JPM": {
+    "data": {
+      "actual": 5.07,
+      "estimate": 4.8839,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.1861,
+      "surprisePercent": 3.8105,
+      "symbol": "JPM",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:11.546749",
+    "cache_type": "earnings"
+  },
+  "PYPL": {
+    "data": {
+      "actual": 1.34,
+      "estimate": 1.2251,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.1149,
+      "surprisePercent": 9.3788,
+      "symbol": "PYPL",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:12.058203",
+    "cache_type": "earnings"
+  },
+  "NFLX": {
+    "data": {
+      "actual": 6.61,
+      "estimate": 5.8243,
+      "period": "2025-03-31",
+      "quarter": 1,
+      "surprise": 0.7857,
+      "surprisePercent": 13.49,
+      "symbol": "NFLX",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:12.481153",
+    "cache_type": "earnings"
+  },
+  "TSLA": {
+    "data": null,
+    "cached_date": "2025-11-14T01:09:12.971986",
+    "cache_type": "earnings"
+  },
+  "WMT": {
+    "data": {
+      "actual": 0.61,
+      "estimate": 0.5816,
+      "period": "2025-06-30",
+      "quarter": 1,
+      "surprise": 0.0284,
+      "surprisePercent": 4.8831,
+      "symbol": "WMT",
+      "year": 2026
+    },
+    "cached_date": "2025-11-14T01:09:13.513878",
+    "cache_type": "earnings"
+  },
+  "MA": {
+    "data": {
+      "actual": 4.15,
+      "estimate": 4.1466,
+      "period": "2025-06-30",
+      "quarter": 2,
+      "surprise": 0.0034,
+      "surprisePercent": 0.082,
+      "symbol": "MA",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:14.207218",
+    "cache_type": "earnings"
+  },
+  "DIS": {
+    "data": {
+      "actual": 1.11,
+      "estimate": 1.0566,
+      "period": "2025-09-30",
+      "quarter": 4,
+      "surprise": 0.0534,
+      "surprisePercent": 5.0539,
+      "symbol": "DIS",
+      "year": 2025
+    },
+    "cached_date": "2025-11-14T01:09:14.785536",
+    "cache_type": "earnings"
+  }
+}

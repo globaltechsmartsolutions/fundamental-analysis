@@ -1,0 +1,10 @@
+{
+  "symbol": "PYPL",
+  "growth_adjustment_factor": 0.4,
+  "wacc_adjustment_factor": 1.4,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 64.96994932253098,
+  "target_value": 93.94,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

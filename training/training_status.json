@@ -1,0 +1,9 @@
+{
+  "status": "completed",
+  "error": 3.6060353161283873,
+  "error_pct": 35.81978424734175,
+  "objective_reached": false,
+  "timestamp": "2025-11-14T02:23:15.128227",
+  "iteration": 400,
+  "total_iterations": 400
+}

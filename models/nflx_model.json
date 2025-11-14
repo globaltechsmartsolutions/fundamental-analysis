@@ -1,0 +1,10 @@
+{
+  "symbol": "NFLX",
+  "growth_adjustment_factor": 0.41498160475389445,
+  "wacc_adjustment_factor": 0.6574931872089654,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 0.2502979462565535,
+  "target_value": 523.93,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

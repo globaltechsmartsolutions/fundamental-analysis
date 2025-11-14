@@ -1,0 +1,17 @@
+{
+  "symbol": "META",
+  "sector": "Media",
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "growth_adjustment_factor": 1.0654408993693072,
+  "wacc_adjustment_factor": 1.7285986697512898,
+  "terminal_growth_rate": 2.0,
+  "fcf_stability_score": 0.7,
+  "beta": 1.29,
+  "debt_ratio": 0.0187,
+  "note": "Parámetros específicos calculados dinámicamente (como Alpha Spread)",
+  "error": 0.9613328997224344,
+  "error_pct": 1.6151799239570201,
+  "trained": true,
+  "training_note": "Modelo entrenado - mejor error encontrado: 1.62%"
+}

@@ -1,0 +1,32 @@
+{
+  "comment": "Valores objetivo de Alpha Spread - Valores reales proporcionados",
+  "target_values": {
+    "AAPL": 178.20,
+    "MSFT": 413.12,
+    "GOOGL": 179.13,
+    "META": 544.05,
+    "AMZN": 169.08,
+    "NVDA": 156.86,
+    "AVGO": 249.89,
+    "NFLX": 523.93,
+    "TSLA": 43.50,
+    "DELL": 216.87,
+    "HPE": 33.42,
+    "UNH": 460.02,
+    "JNJ": 173.91,
+    "JPM": 298.33,
+    "PYPL": 93.94,
+    "MA": 188.49,
+    "BAC": 64.94,
+    "GS": 1401.33,
+    "C": 150.08,
+    "SCHW": 146.59,
+    "RKT": 26.33,
+    "WMT": 62.11,
+    "DIS": 138.13,
+    "PG": 117.73,
+    "VZ": 61.69,
+    "BLOCK": 109.27
+  }
+}
+

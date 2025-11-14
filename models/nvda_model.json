@@ -1,0 +1,10 @@
+{
+  "symbol": "NVDA",
+  "growth_adjustment_factor": 1.6,
+  "wacc_adjustment_factor": 0.6,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 36.922688899317954,
+  "target_value": 156.86,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}

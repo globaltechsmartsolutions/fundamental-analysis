@@ -1,0 +1,10 @@
+{
+  "symbol": "WMT",
+  "growth_adjustment_factor": 0.49087586185584475,
+  "wacc_adjustment_factor": 1.3445833129339497,
+  "dcf_weight": 0.5,
+  "comparables_weight": 0.5,
+  "error": 0.884869751420415,
+  "target_value": 62.11,
+  "note": "Parámetros específicos entrenados para esta empresa"
+}
