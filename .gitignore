@@ -1,0 +1,27 @@
+# Python build/cache
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+.venv/
+
+# Logs and runtime artifacts
+var/logs/
+var/cache/
+*.log
+
+# Training generated files
+training/training_cache.json
+training/training_checkpoint.json
+training/training_status.json
+training/training_results_iter_*.json
+training/models/
+
+# Local configs
+settings.local.ini
+
+# IDE / tooling
+.cursor/
+.DS_Store
+thumbs.db
+
